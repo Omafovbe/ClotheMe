@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Clothe Me</string>
+
+    <string-array name="femaleClothes">
+        <item>image1</item>
+        <item>image2</item>
+        <item>image3</item>
+        <item>image4</item>
+        <item>image5</item>
+    </string-array>
+    <string-array name="maleClothes">
+        <item>mimage1</item>
+        <item>mimage2</item>
+        <item>mimage3</item>
+        <item>mimage4</item>
+        <item>mimage5</item>
+    </string-array>
+</resources>
